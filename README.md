@@ -1,2 +1,0 @@
-# html-mockup
-mockup assignment
